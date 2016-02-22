@@ -14,7 +14,10 @@ to the terminal.
 
 From command line...
 
+```
 $ cd src
 $ javac BitCalculator.java
 $ java BitCalculator
+```
+
 ---------------------------------
