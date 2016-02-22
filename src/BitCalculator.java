@@ -314,6 +314,6 @@ public class BitCalculator {
         System.out.println(hexEncoding);
         System.out.println("Result ... ");
         System.out.println(decode(hexEncoding));
-        
+
     }
 }

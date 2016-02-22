@@ -9,5 +9,12 @@ The BitCalculator class has three functions that correspond to each of the tasks
 ---------------------------------
 Running the Code
 
+Running the code will run just the main() method with a few examples/tests using the functions and printing the results
+to the terminal.
 
+From command line...
+
+cd src
+javac BitCalculator.java
+java BitCalculator
 ---------------------------------
